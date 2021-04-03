@@ -1,4 +1,6 @@
 # ConsoleApp
+Programming language - Java.
+
 Second task: second variant.
 
 Encryption XOR -> exclusive OR

@@ -5,7 +5,7 @@ import java.io.*;
 
 public class Encryption {
 
-    public final String key;
+    private final String key;
 
     public Encryption(String key) {
         this.key = key;
